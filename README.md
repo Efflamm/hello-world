@@ -1,6 +1,9 @@
-# hello-world
-The simple hello world exercice
+# Ma-Config
 
-Hello,
+Le Memo config pour me gagner du temps en faisant mon nouveau bureau a chaque fois.
 
-I am a French programmer working in Tokyo, I am quiet beginner and new in GitHub.
+N'hesitez pas a vous en inspirez si vous voulez.
+
+C'est pas tres présentable pour l'instant...
+
+Efflamm MORGAN
