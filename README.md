@@ -22,7 +22,6 @@ Atom doit etre configurer pour etre tip top.
     - highlight-selected 0.13.1
     - linter-tidy 2.3.1
     - pigments 0.39.1
-    - project-manager 3.3.4
     - simple-drag-drop-text 0.3.4
     - northem-atom-syntax 2.1.0
     - northem-atom-ui 2.1.0
